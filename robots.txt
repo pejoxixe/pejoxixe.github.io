@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://pejoxixe.github.io/sitemap/sitemap_index.pejoxixe
+Sitemap: https://pejoxixe.github.io/onR/sitemap_index.pejoxixe
+Sitemap: https://pejoxixe.github.io/IbY/sitemap_index.pejoxixe
+Sitemap: https://pejoxixe.github.io/BHM/sitemap_index.pejoxixe
+Sitemap: https://pejoxixe.github.io/KiJ/sitemap_index.pejoxixe
+Sitemap: https://pejoxixe.github.io/VMs/sitemap_index.pejoxixe
+Sitemap: https://pejoxixe.github.io/XbR/sitemap_index.pejoxixe
+Sitemap: https://pejoxixe.github.io/ctJ/sitemap_index.pejoxixe
+Sitemap: https://pejoxixe.github.io/jWk/sitemap_index.pejoxixe
+Sitemap: https://pejoxixe.github.io/DCX/sitemap_index.pejoxixe
+Sitemap: https://pejoxixe.github.io/Rwc/sitemap_index.pejoxixe
+Sitemap: https://pejoxixe.github.io/uNi/sitemap_index.pejoxixe
+Sitemap: https://pejoxixe.github.io/tlC/sitemap_index.pejoxixe
+Sitemap: https://pejoxixe.github.io/kmf/sitemap_index.pejoxixe
+Sitemap: https://pejoxixe.github.io/xfr/sitemap_index.pejoxixe
+Sitemap: https://pejoxixe.github.io/ysb/sitemap_index.pejoxixe
+Sitemap: https://pejoxixe.github.io/gUv/sitemap_index.pejoxixe
+Sitemap: https://pejoxixe.github.io/ytu/sitemap_index.pejoxixe
+Sitemap: https://pejoxixe.github.io/eJZ/sitemap_index.pejoxixe
+Sitemap: https://pejoxixe.github.io/bnw/sitemap_index.pejoxixe
+Sitemap: https://pejoxixe.github.io/fje/sitemap_index.pejoxixe
